@@ -1,0 +1,9 @@
+.postJM {width:100%;min-height:100px;clear:both;}
+.post-imageJM{float:left;width:25%;height:auto;margin-right:4%;}
+.post-imageJM img{width:100%;height:auto;}
+.post-contentJM{float:left;width:71%;text-align:left !important;}
+.post-contentJM h2{margin:0 0 5px 0;line-height:22px;font-size:16px;font-weight:normal;}
+.post-contentJM p{margin-bottom:5px !important;}
+.post-clearJM {width:100%;height:1px;clear:both;}
+.postJM .post {margin-bottom:30px !important;}
+.btnJM{font-size:14px;}
